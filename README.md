@@ -53,19 +53,3 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rochds11&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Rochds11's Top Languages">
 
 
-<br>
-
-### :zap: Recent Github Activity
-  
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/codeSTACKr/goal-manager-react/pull/1) in [codeSTACKr/goal-manager-react](https://github.com/codeSTACKr/goal-manager-react)
-2. 💪 Opened PR [#1](https://github.com/t-satwik/Python-programs/pull/1) in [t-satwik/Python-programs](https://github.com/t-satwik/Python-programs)
-3. 🗣 Commented on [#143](https://github.com/dwyl/start-here/issues/143) in [dwyl/start-here](https://github.com/dwyl/start-here)
-<!--END_SECTION:activity-->
-
-<br>
-
------
-Credits: [SumanthTalluri](https://github.com/Sumanth-Talluri)
-
-Last Edited on: 12/12/2020
